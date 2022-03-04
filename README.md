@@ -15,4 +15,4 @@ GitHub organisation url: [ionioteam](https://github.com/ionioteam)
 
 webring link --> [webring](https://github.com/ionioteam/webring)
 
-netlify.app --> [ionioteam](https://ionioteam.netlify.app/)
+netlify.app --> [ionioteam](https://ionioteam-webring.netlify.app/)
